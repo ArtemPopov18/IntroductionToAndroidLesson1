@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Introduction To Android Lesson1</string>
     <string name="inputTypeText">Введите текст</string>
+    <string name="textPersonName">Введите имя</string>
+    <string name="phone">Введите номер телефона</string>
+    <string name="number">Введите цифру</string>
+    <string name="textPassword">Введите пароль</string>
+    <string name="textEmailAddress">Введите адрес почты</string>
+    <string name="task_1">Task №1!</string>
+    <string name="click">click</string>
+    <string name="check">Check</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
 </resources>

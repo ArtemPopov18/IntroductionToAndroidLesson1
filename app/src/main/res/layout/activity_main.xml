@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Task №1!"
+        android:text="@string/task_1"
         android:layout_gravity="center"
         android:textSize="@dimen/SizeTextView" />
 
@@ -21,7 +21,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="click" />
+        android:text="@string/click" />
 
     <Switch
         android:layout_width="match_parent"
@@ -33,12 +33,12 @@
     <CheckBox
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Check" />
+        android:text="@string/check" />
 
     <ToggleButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/blue"
-        android:textOff="Off"
-        android:textOn="On" />
+        android:textOff="@string/off"
+        android:textOn="@string/on" />
 </LinearLayout>

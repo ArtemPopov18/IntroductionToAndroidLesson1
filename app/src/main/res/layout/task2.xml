@@ -14,30 +14,30 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
-        android:hint="Введите имя" />
+        android:hint="@string/textPersonName" />
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="phone"
-        android:hint="Введите номер телефона" />
+        android:hint="@string/phone" />
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="number"
-        android:hint="Введите цифру" />
+        android:hint="@string/number" />
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPassword"
-        android:hint="Введите пароль" />
+        android:hint="@string/textPassword" />
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textEmailAddress"
-        android:hint="Введите адрес почты" />
+        android:hint="@string/textEmailAddress" />
 
 </LinearLayout>
