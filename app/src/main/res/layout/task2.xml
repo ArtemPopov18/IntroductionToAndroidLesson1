@@ -40,4 +40,6 @@
         android:inputType="textEmailAddress"
         android:hint="@string/textEmailAddress" />
 
+
+
 </LinearLayout>
